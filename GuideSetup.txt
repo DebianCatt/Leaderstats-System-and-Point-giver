@@ -21,3 +21,8 @@ just import them and you should be fine. Free to configure it :>
     pointsgiver.lua  -  belongs to PointsGiver.rbxm
     TrophyBoard.lua  -  belongs to tLeaderBoard.rbxm
     trophygiver.lua  -  belongs to FinishLine.rbxm
+
+
+Thank you for using it <3
+
+     -Debian
