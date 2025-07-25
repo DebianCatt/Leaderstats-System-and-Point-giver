@@ -1,0 +1,23 @@
+
+________        ___.   .__               
+\______ \   ____\_ |__ |__|____    ____  
+ |    |  \_/ __ \| __ \|  \__  \  /    \ 
+ |    `   \  ___/| \_\ \  |/ __ \|   |  \
+/_______  /\___  >___  /__(____  /___|  / A dumbass
+        \/     \/    \/        \/     \/ 
+
+
+
+All rbxm models are provided, completely how It was on my studio, 
+just import them and you should be fine. Free to configure it :>
+
+-- Scripts --
+
+*You must put manually
+    leaderstats.lua  -  belongs to ServerScriptService ()
+
+*Already on the rbxm models (no need to manually input this)
+    PointsBoard.lua  -  belongs to LeaderBoard.rbxm
+    pointsgiver.lua  -  belongs to PointsGiver.rbxm
+    TrophyBoard.lua  -  belongs to tLeaderBoard.rbxm
+    trophygiver.lua  -  belongs to FinishLine.rbxm
